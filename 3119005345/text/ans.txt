@@ -1,0 +1,12 @@
+﻿原文论文路径：text\orig.txt
+抄袭论文路径：text\orig_0.8_dis_15.txt
+重复率：0.57
+
+原文论文路径：text\orig.txt
+抄袭论文路径：text\orig_0.8_dis_15.txt
+重复率：0.57
+
+原文论文路径：text\orig.txt
+抄袭论文路径：text\orig_0.8_dis_15.txt
+重复率：0.57
+
